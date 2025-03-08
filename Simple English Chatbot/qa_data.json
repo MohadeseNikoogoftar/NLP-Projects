@@ -1,0 +1,13 @@
+{
+    "What is your name?": "I am a chatbot powered by deep learning.",
+    "How are you?": "I'm a chatbot, so I don't have feelings, but I'm here to help!",
+    "What can you do?": "I can answer your questions using AI technology.",
+    "Who created you?": "I was built using Python and deep learning models like BERT.",
+    "What is AI?": "AI stands for Artificial Intelligence, enabling machines to think and learn.",
+    "What is deep learning?": "Deep learning is a subset of AI that uses neural networks to process data.",
+    "Tell me about BERT.": "BERT is a deep learning model developed by Google for NLP tasks.",
+    "What is machine learning?": "Machine learning is a field of AI that enables computers to learn from data.",
+    "What programming languages do you use?": "I am built using Python, with libraries like PyTorch and TensorFlow.",
+    "What is natural language processing?": "NLP is a branch of AI that enables computers to understand and process human language.",
+    "Who is Alan Turing?": "Alan Turing was a pioneer in computer science and artificial intelligence."
+}
